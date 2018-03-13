@@ -1,0 +1,136 @@
+{
+    "clients": [{
+            "name": "John Doe",
+            "categories": [{
+                    "categoryName": "Tomorrow",
+                    "tasks": [{
+                            "taskName": "English lesson",
+                            "taskDueTime": "14:30",
+                            "taskDueDate": "26/02/2018",
+                            "taskPriority": "high",
+                            "taskId": 1
+                        },
+                        {
+                            "taskName": "Cleaning my room",
+                            "taskDueTime": "17:30",
+                            "taskDueDate": "25/02/2018",
+                            "taskPriority": "low",
+                            "taskId": 2
+                        },
+                        {
+                            "taskName": "Visit my parents",
+                            "taskDueTime": "20:30",
+                            "taskDueDate": "27/02/2018",
+                            "taskPriority": "medium",
+                            "taskId": 3
+                        }
+                    ]
+                },
+                {
+                    "categoryName": "Personal",
+                    "tasks": [{
+                            "taskName": "Making a breakfast",
+                            "taskDueTime": "7:00",
+                            "taskDueDate": "12/02/2018",
+                            "taskPriority": "low",
+                            "taskId": 4
+                        },
+                        {
+                            "taskName": "Learning new staff at Telerik Academy",
+                            "taskDueTime": "20:00",
+                            "taskDueDate": "12/02/2018",
+                            "taskPriority": "high",
+                            "taskId": 5
+                        },
+                        {
+                            "taskName": "Going to haircut",
+                            "taskDueTime": "15:30",
+                            "taskDueDate": "18/02/2018",
+                            "taskPriority": "low",
+                            "taskId": 6
+                        },
+                        {
+                            "taskName": "Going to cinema",
+                            "taskDueTime": "15:30",
+                            "taskDueDate": "16/02/2018",
+                            "taskPriority": "low",
+                            "taskId": 7
+                        }
+
+                    ]
+                },
+                {
+                    "categoryName": "Work",
+                    "tasks": [{
+                            "taskName": "Designing a new website",
+                            "taskDueTime": "09:30",
+                            "taskDueDate": "19/02/2018",
+                            "taskPriority": "medium",
+                            "taskId": 8
+                        },
+                        {
+                            "taskName": "Preparing for the Presentation",
+                            "taskDueTime": "16:30",
+                            "taskDueDate": "27/02/2018",
+                            "taskPriority": "high",
+                            "taskId": 9
+                        }
+                    ]
+                },
+                {
+                    "categoryName": "Study",
+                    "tasks": [{
+                            "taskName": "Defending the project",
+                            "taskDueTime": "15:30",
+                            "taskDueDate": "12/02/2018",
+                            "taskPriority": "high",
+                            "taskId": 10
+                        },
+                        {
+                            "taskName": "DSA Exam 2",
+                            "taskDueTime": "10:00",
+                            "taskDueDate": "16/02/2018",
+                            "taskPriority": "high",
+                            "taskId": 11
+                        }
+                    ]
+                },
+                {
+                    "categoryName": "Hobbies",
+                    "tasks": [{
+                        "taskName": "Playing football",
+                        "taskDueTime": "19:30",
+                        "taskDueDate": "15/02/2018",
+                        "taskPriority": "low",
+                        "taskId": 12
+                    }]
+                }
+            ]
+        },
+        {
+            "name": "Jane Doe",
+            "categories": [{
+                "categoryName": "Birthday prep.",
+                "tasks": [{
+                        "taskName": "task1",
+                        "taskDueTime": "some time",
+                        "taskDueDate": "some date",
+                        "taskPriority": "high"
+                    },
+                    {
+                        "taskName": "task2",
+                        "taskDueTime": "some time",
+                        "taskDueDate": "some date",
+                        "taskPriority": "high"
+                    },
+                    {
+                        "taskName": "task3",
+                        "taskDueTime": "some time",
+                        "taskDueDate": "some date",
+                        "taskPriority": "high"
+                    }
+                ]
+            }]
+        }
+    ]
+}
