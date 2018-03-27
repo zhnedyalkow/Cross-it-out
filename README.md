@@ -2,6 +2,9 @@
 
 The first team project @ Telerik Alpha Academy
 
+![capture](https://user-images.githubusercontent.com/19227500/37972199-750b12e4-31e0-11e8-8bc9-9a438e43826e.png)
+
+
 X-it-out is a single-page-application that manages its user's tasks and provides different
 functionalities which help him finish his duties in time.
 
